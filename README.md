@@ -83,3 +83,12 @@ The API documentation is available using Swagger UI. After starting the server, 
 Contributions are welcome! Please create a new branch for your changes and submit a pull request for review.
 
 
+##Screenshots
+![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 1](screenshots/Screenshot2.png)
+![Screenshot 1](screenshots/Screenshot3.png)
+![Screenshot 1](screenshots/Screenshot4.png)
+![Screenshot 1](screenshots/Screenshot5.png)
+![Screenshot 1](screenshots/Screenshot6.png)
+
+
