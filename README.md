@@ -53,7 +53,7 @@ This API is designed to facilitate doctors working in a hospital designated by t
     ```
 
 ## API Documentation
-## API Documentation
+
 
 The API documentation is available using Swagger UI. After starting the server, navigate to `http://localhost:3000/api-docs` in your browser to view the API documentation and test the endpoints.
 
