@@ -83,7 +83,15 @@ The API documentation is available using Swagger UI. After starting the server, 
 Contributions are welcome! Please create a new branch for your changes and submit a pull request for review.
 
 
-##Screenshots
+## Hosted URL
+
+The Hospital API is currently hosted on Render. You can access it using the following URL:
+
+[https://hospital-api-i28b.onrender.com](https://hospital-api-i28b.onrender.com)
+
+Feel free to explore the API and its functionalities!
+
+## Screenshots
 ![Screenshot 1](screenshots/Screenshot1.png)
 ![Screenshot 1](screenshots/Screenshot2.png)
 ![Screenshot 1](screenshots/Screenshot3.png)
